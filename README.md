@@ -46,10 +46,7 @@ CampusCraving is designed to enhance the dining experience within the campus com
 ### 6. Real-Time Updates
 - **Order Tracking**: Allows users to track their orders in real-time, enhancing transparency and reducing uncertainty during the waiting period.
 
-### 7. Community Engagement
-- **Feedback Mechanism**: Encourages ongoing engagement with users through feedback mechanisms to continually refine and improve the dining experience based on community input.
-
-### 8. Support for Campus Events
+### 7. Support for Campus Events
 - **Event Catering**: Offers specialized services for campus events, ensuring efficient food service and management during gatherings and functions.
 
 By addressing these critical areas, CampusCraving aims to redefine and enhance the overall campus dining experience for all stakeholders involved.
@@ -68,16 +65,10 @@ The CampusCraving food delivery app leverages a combination of modern technologi
 ## 3. Android Studio
 - **Integrated Development Environment (IDE)**: The application is developed using Android Studio, which offers a comprehensive environment for building Android applications.
 
-## 4. Google Cloud Platform (GCP)
-- **Infrastructure**: Firebase, as part of GCP, provides reliable infrastructure and services that support the application’s backend.
-
-## 5. Git
+## 4. Git
 - **Version Control**: Git is employed for version control, enabling collaboration among developers and maintaining a history of changes to the codebase.
 
-## 6. Gradle
+## 5. Gradle
 - **Build Automation**: Gradle manages dependencies and automates the build process in the Java environment.
-
-## 7. Material Design
-- **User Interface/User Experience (UI/UX)**: Material Design principles are applied to create a visually appealing and user-friendly interface, ensuring a seamless experience for users.
 
 By integrating these technologies, CampusCraving aims to deliver a comprehensive and efficient food delivery service that meets the needs of the campus community.
